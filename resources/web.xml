@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web>
+   <directory category="chan">
+      <site>
+         <name>lain</name>
+         <url>https://lainchan.org</url>
+      </site>
+      <site>
+         <name>8ch</name>
+         <url>https://8ch.net</url>
+      </site>
+      <site>
+          <name>jp lain</name>
+          <url>https://lainchan.jp</url>
+      </site>
+      <site>
+         <name>lainchan</name>
+         <url>https://lainchan.org</url>
+      </site>
+      <site>
+         <name>0ch</name>
+         <url>https://0ch.org</url>
+      </site>
+      <site>
+         <name>smugloli</name>
+         <url>https://smuglo.li</url>
+      </site>
+      <site>
+         <name>tsuki</name>
+         <url>https://boards.systemspace.link</url>
+      </site>
+   </directory>
+   <directory category="email">
+      <site>
+          <name>yahoo</name>
+          <url>https://mail.yahoo.com</url>
+      </site>
+      <site>
+         <name>tutanota</name>
+         <url>https://tutanota.de</url>
+      </site>
+      <site>
+         <name>cock li</name>
+         <url>https://cock.li</url>
+      </site>
+      <site>
+         <name>getairmail</name>
+         <url>https://getairmail.com</url>
+      </site>
+   </directory>
+   <directory category="file">
+      <site>
+         <name>pomf</name>
+         <url>https://pomf.cat</url>
+      </site>
+      <site>
+          <name>filebox</name>
+          <url>https://filebox.moe</url>
+      </site>
+      <site>
+         <name>doko</name>
+         <url>https://doko.moe</url>
+      </site>
+      <site>
+         <name>lewd</name>
+         <url>https://lewd.se</url>
+      </site>
+      <site>
+         <name>mixtape.moe</name>
+         <url>https://mixtape.moe</url>
+      </site>
+      <site>
+         <name>lainfile</name>
+         <url>https://lainfile.pw</url>
+      </site>
+   </directory>
+   <directory category="dev">
+      <site>
+          <name>gitgud</name>
+          <url>https://gitgud.io</url>
+      </site>
+      <site>
+         <name>gitlab</name>
+         <url>https://gitlab.com</url>
+      </site>
+      <site>
+         <name>mozilla</name>
+         <url>https://developer.mozilla.org</url>
+      </site>
+      <site>
+         <name>w3schools.com</name>
+         <url>https://w3schools.com</url>
+      </site>
+      <site>
+         <name>arch wiki</name>
+         <url>https://wiki.archlinux.org</url>
+      </site>
+      <site>
+         <name>gentoo wiki</name>
+         <url>https://wiki.gentoo.org</url>
+      </site>
+   </directory>
+   <directory category="news">
+      <site>
+         <name>reuters</name>
+         <url>http://reuters.com</url>
+      </site>
+      <site>
+         <name>hacker news</name>
+         <url>https://news.ycombinator.com</url>
+      </site>
+      <site>
+         <name>ft</name>
+         <url>https://ft.com</url>
+      </site>
+      <site>
+         <name>liveleak</name>
+         <url>https://liveleak.com</url>
+      </site>
+      <site>
+         <name>csmonitor</name>
+         <url>https://www.csmonitor.com</url>
+      </site>
+      <site>
+         <name>scientific american</name>
+         <url>https://www.scientificamerican.com</url>
+      </site>
+      <site>
+          <name>zerohedge</name>
+          <url>http://www.zerohedge.com</url>
+      </site>
+   </directory>
+   <directory category="img">
+      <site>
+         <name>pixiv</name>
+         <url>https://pixiv.net</url>
+      </site>
+      <site>
+         <name>gelbooru</name>
+         <url>https://gelbooru.com</url>
+      </site>
+      <site>
+         <name>tbib</name>
+         <url>https://tbib.org</url>
+      </site>
+      <site>
+         <name>sankaku complex</name>
+         <url>https://chan.sankakucomplex.com</url>
+      </site>
+      <site>
+          <name>zerochan</name>
+          <url>https://zerochan.net</url>
+      </site>
+   </directory>
+   <directory category="anime">
+	<site>
+	  <name>pantsu</name>
+ 	  <url>https://pantsu.cat</url>
+	</site>
+	<site>
+	  <name>madokami</name>
+	  <url>https://manga.madokami.al</url>
+	</site>
+        <site>
+           <name>mal</name>
+           <url>https://myanimelist.net</url>
+        </site>
+   </directory>
+   <directory category="torrent">
+        <site>
+            <name>torrentfreak</name>
+            <url>https://torrentfreak.com</url>
+        </site>
+        <site>
+            <name>tpb</name>
+            <url>https://thepiratebay.se</url>
+        </site>
+    </directory>
+</web>

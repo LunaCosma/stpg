@@ -1,0 +1,52 @@
+body {
+    background-image: url("1.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#title {
+        font-size: 25px;
+        padding: 25px 50px 0px ;
+}
+input[type=text] {
+    background: #7BBBDC
+    box-sizing: border-box;
+    border-style:none;
+    padding: 12px;
+}
+#topcontainer {
+    background-color: rgb(255, 255, 255, 0.4);
+    margin: 0px 50px 50px;    
+    padding: 0px 20px 20px;
+    text-align: center;
+}
+a:link, a:visited {
+    background-color: #B4736E;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:focus {
+    background-color: white;
+    color:black;
+    padding:14px 25px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+}
+#focus {
+    background-color: white;
+    color:black;
+    padding:14px 25px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+}
+#focus::before{
+    content: "▶ ";
+}
