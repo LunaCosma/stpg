@@ -1,0 +1,22 @@
+Most of what the script does is reading URLs from the file "web.xml" and displaying it on the screen. It will display all the links from one category of websites at a time, with the name of the category displayed at the top. Here's the format for web.xml in case if you completely fuck it up.
+<web>
+    <directory category="name of category">
+        <site>
+            <name>Associated name</name>
+            <url>https://example.com</url>
+        </site>
+    </directory>
+</web>
+(Obviously, you can have multiple directories under web and multiple sites under directory.)
+Notably, you do have to include the "https://" in the url. The reasoning behind this is because not every site has an https version, so automatically prefixing every link with https wouldn't really work. I guess if you had HTTPS Everywhere installed you may not care, but I don't.
+
+The other half of what it does is take keyboard inputs. The current keybindings were insipred by vim, but some functions had no real counterpart, so I just made stuff up as I went.
+i - Focus the search bar.
+h - Move one directory back
+j - Move one weblink down
+k - Move one weblink up
+l - Move one directory forward
+Enter or Semicolon - Navigate to the currently selected weblink. Enter should just search if the searchbar is selected.
+Escape - If the search bar is selected, unfocus it so you can use all the other keybindings.
+o - Navigate to the currently selected weblink with whatever is in the searchbar as an argument. For example, if I try to navigate to "4chan.org" while "b" is in the search bar, I'll instead go to "4chan.org/b/". The first "/" is inserted automatically. Notably, this is only useful for *chans for the most part, but it's still pretty nice. 
+

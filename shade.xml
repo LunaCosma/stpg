@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web>
+  <directory category="link">
+    <site>
+      <name>hidden wiki</name>
+      <url>http://hiddenwiki6pbbpc.onion/Main_Page</url>
+    </site>
+    <site>
+      <name>torch</name>
+      <url>http://xmh57jrzrnw6insl.onion</url>
+    </site>
+    <site>
+      <name>not evil</name>
+      <url>http://hss3uro2hsxfogfq.onion/</url>
+    </site>
+    <site>
+      <name>undernet</name>
+      <url>http://underdj5ziov3ic7.onion/</url>
+    </site>
+  </directory>
+  <directory category="bitcoin">
+    <site>
+      <name>coinbase</name>
+      <url>http://www.coinbase.com/</url>
+    </site>
+    <site>
+      <name>electrum</name>
+      <url>http://www.electrum.org/
+        </url>
+    </site>
+    <site>
+      <name>bitcoin fog</name>
+      <url>http://foggeddriztrcar2.onion/</url>
+    </site>
+    <site>
+      <name>blockchan.info</name>
+      <url>https://blockchain.info/</url>
+    </site>
+    <site>
+      <name>torbox</name>
+      <url>http://torbox3uiot6wchz.onion/</url>
+    </site>
+  </directory>
+</web>
