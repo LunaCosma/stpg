@@ -137,11 +137,11 @@
       </site>
       <site>
          <name>gelbooru</name>
-         <url>https://gelbooru.com/index.php?page=post&amps=list&amptags=</url>
+         <url>https://gelbooru.com/index.php?page=post&amp;s=list&amp;tags=</url>
       </site>
       <site>
          <name>tbib</name>
-         <url>https://tbib.org/index.php?page=post&amps=list&amptags=</url>
+         <url>https://tbib.org/index.php?page=post&amp;s=list&amp;tags=</url>
       </site>
       <site>
          <name>sankaku complex</name>
