@@ -76,6 +76,10 @@
    </directory>
    <directory category="dev">
       <site>
+	  <name>github</name>
+	  <url>https://github.com</url>
+      </site>
+      <site>
           <name>gitgud</name>
           <url>https://gitgud.io</url>
       </site>
