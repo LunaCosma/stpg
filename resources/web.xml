@@ -179,5 +179,13 @@
             <name>tpb</name>
             <url>https://thepiratebay.se</url>
         </site>
+	<site>
+	    <name>torrents.me</name>
+            <url>https://torrents.me</url>
+	</site>
+	<site>
+	     <name>torrentz</name>
+	     <url>https://torrentz2eu</url>
+	</site>
     </directory>
 </web>
