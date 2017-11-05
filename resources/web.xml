@@ -32,8 +32,8 @@
    </directory>
    <directory category="email">
       <site>
-          <name>yahoo</name>
-          <url>https://mail.yahoo.com</url>
+          <name>gmail</name>
+          <url>https://gmail.com</url>
       </site>
       <site>
          <name>tutanota</name>
@@ -76,6 +76,10 @@
    </directory>
    <directory category="dev">
       <site>
+	  <name>github</name>
+	  <url>https://github.com</url>
+      </site>
+      <site>
           <name>gitgud</name>
           <url>https://gitgud.io</url>
       </site>
@@ -114,8 +118,8 @@
          <url>https://ft.com</url>
       </site>
       <site>
-         <name>liveleak</name>
-         <url>https://liveleak.com</url>
+         <name>pbs</name>
+         <url>https://pbs.org/newshour/</url>
       </site>
       <site>
          <name>csmonitor</name>
@@ -126,30 +130,8 @@
          <url>https://www.scientificamerican.com</url>
       </site>
       <site>
-          <name>zerohedge</name>
-          <url>http://www.zerohedge.com</url>
-      </site>
-   </directory>
-   <directory category="img">
-      <site>
-         <name>pixiv</name>
-         <url>https://pixiv.net</url>
-      </site>
-      <site>
-         <name>gelbooru</name>
-         <url>https://gelbooru.com</url>
-      </site>
-      <site>
-         <name>tbib</name>
-         <url>https://tbib.org</url>
-      </site>
-      <site>
-         <name>sankaku complex</name>
-         <url>https://chan.sankakucomplex.com</url>
-      </site>
-      <site>
-          <name>zerochan</name>
-          <url>https://zerochan.net</url>
+          <name>phys</name>
+          <url>https://phys.org</url>
       </site>
    </directory>
    <directory category="anime">

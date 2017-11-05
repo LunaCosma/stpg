@@ -1,9 +1,10 @@
 body {
-    background-image: url("1.jpg");
+    background-image: url("7.gif");
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    color: white;
 }
 
 #title {
@@ -17,13 +18,13 @@ input[type=text] {
     padding: 12px;
 }
 #topcontainer {
-    background-color: rgb(255, 255, 255, 0.4);
+    background-color: rgb(255, 255, 255, 0.2);
     margin: 0px 50px 50px;    
     padding: 0px 20px 20px;
     text-align: center;
 }
 a:link, a:visited {
-    background-color: #B4736E;
+    background-color: rgb(107, 92, 106, 0.6);
     color: white;
     padding: 14px 25px;
     text-align: center;
@@ -32,16 +33,16 @@ a:link, a:visited {
 }
 
 a:focus {
-    background-color: white;
     color:black;
     padding:14px 25px;
     text-align: center;
+    background-color: rgb(255, 255, 255, 0.2);
     text-decoration:none;
     display: inline-block;
 }
 #focus {
-    background-color: white;
-    color:black;
+    background-color: rgb(112, 62, 62, 0.6);
+    color: rgb(204, 204, 255);
     padding:14px 25px;
     text-align: center;
     text-decoration:none;
