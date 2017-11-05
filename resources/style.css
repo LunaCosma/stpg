@@ -1,9 +1,17 @@
 body {
+<<<<<<< HEAD
+    background-image: url("7.gif");
+=======
     background-image: url("1.jpg");
+>>>>>>> 77c6bec9a5c80f73b7fce4bee3999ee723d8d4ee
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
+<<<<<<< HEAD
+    color: white;
+=======
+>>>>>>> 77c6bec9a5c80f73b7fce4bee3999ee723d8d4ee
 }
 
 #title {
@@ -17,13 +25,21 @@ input[type=text] {
     padding: 12px;
 }
 #topcontainer {
+<<<<<<< HEAD
+    background-color: rgb(255, 255, 255, 0.2);
+=======
     background-color: rgb(255, 255, 255, 0.4);
+>>>>>>> 77c6bec9a5c80f73b7fce4bee3999ee723d8d4ee
     margin: 0px 50px 50px;    
     padding: 0px 20px 20px;
     text-align: center;
 }
 a:link, a:visited {
+<<<<<<< HEAD
+    background-color: rgb(107, 92, 106, 0.6);
+=======
     background-color: #B4736E;
+>>>>>>> 77c6bec9a5c80f73b7fce4bee3999ee723d8d4ee
     color: white;
     padding: 14px 25px;
     text-align: center;
@@ -32,16 +48,28 @@ a:link, a:visited {
 }
 
 a:focus {
+<<<<<<< HEAD
+    color:black;
+    padding:14px 25px;
+    text-align: center;
+    background-color: rgb(255, 255, 255, 0.2);
+=======
     background-color: white;
     color:black;
     padding:14px 25px;
     text-align: center;
+>>>>>>> 77c6bec9a5c80f73b7fce4bee3999ee723d8d4ee
     text-decoration:none;
     display: inline-block;
 }
 #focus {
+<<<<<<< HEAD
+    background-color: rgb(112, 62, 62, 0.6);
+    color: rgb(204, 204, 255);
+=======
     background-color: white;
     color:black;
+>>>>>>> 77c6bec9a5c80f73b7fce4bee3999ee723d8d4ee
     padding:14px 25px;
     text-align: center;
     text-decoration:none;
