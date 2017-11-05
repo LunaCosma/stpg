@@ -32,8 +32,13 @@
    </directory>
    <directory category="email">
       <site>
+<<<<<<< HEAD
           <name>gmail</name>
           <url>https://gmail.com</url>
+=======
+          <name>yahoo</name>
+          <url>https://mail.yahoo.com</url>
+>>>>>>> 77c6bec9a5c80f73b7fce4bee3999ee723d8d4ee
       </site>
       <site>
          <name>tutanota</name>
@@ -118,8 +123,13 @@
          <url>https://ft.com</url>
       </site>
       <site>
+<<<<<<< HEAD
          <name>pbs</name>
          <url>https://pbs.org/newshour/</url>
+=======
+         <name>liveleak</name>
+         <url>https://liveleak.com</url>
+>>>>>>> 77c6bec9a5c80f73b7fce4bee3999ee723d8d4ee
       </site>
       <site>
          <name>csmonitor</name>
@@ -130,8 +140,35 @@
          <url>https://www.scientificamerican.com</url>
       </site>
       <site>
+<<<<<<< HEAD
           <name>phys</name>
           <url>https://phys.org</url>
+=======
+          <name>zerohedge</name>
+          <url>http://www.zerohedge.com</url>
+      </site>
+   </directory>
+   <directory category="img">
+      <site>
+         <name>pixiv</name>
+         <url>https://pixiv.net</url>
+      </site>
+      <site>
+         <name>gelbooru</name>
+         <url>https://gelbooru.com/index.php?page=post&amp;s=list&amp;tags=</url>
+      </site>
+      <site>
+         <name>tbib</name>
+         <url>https://tbib.org/index.php?page=post&amp;s=list&amp;tags=</url>
+      </site>
+      <site>
+         <name>sankaku complex</name>
+         <url>https://chan.sankakucomplex.com/?tags=</url>
+      </site>
+      <site>
+          <name>zerochan</name>
+          <url>https://zerochan.net</url>
+>>>>>>> 77c6bec9a5c80f73b7fce4bee3999ee723d8d4ee
       </site>
    </directory>
    <directory category="anime">
@@ -157,5 +194,16 @@
             <name>tpb</name>
             <url>https://thepiratebay.se</url>
         </site>
+<<<<<<< HEAD
+=======
+	<site>
+	    <name>torrents.me</name>
+            <url>https://torrents.me</url>
+	</site>
+	<site>
+	     <name>torrentz</name>
+	     <url>https://torrentz2eu</url>
+	</site>
+>>>>>>> 77c6bec9a5c80f73b7fce4bee3999ee723d8d4ee
     </directory>
 </web>
